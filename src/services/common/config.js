@@ -1,0 +1,1 @@
+export const API_KEY = "345411636508e2b74308228fcfc87973"; // !TEMPORARY
